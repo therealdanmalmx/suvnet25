@@ -1,0 +1,14 @@
+/Users/daniel/ownProjects/SUVNET/OOP1/excercises/todo/bin/Debug/net9.0/todo
+/Users/daniel/ownProjects/SUVNET/OOP1/excercises/todo/bin/Debug/net9.0/todo.deps.json
+/Users/daniel/ownProjects/SUVNET/OOP1/excercises/todo/bin/Debug/net9.0/todo.runtimeconfig.json
+/Users/daniel/ownProjects/SUVNET/OOP1/excercises/todo/bin/Debug/net9.0/todo.dll
+/Users/daniel/ownProjects/SUVNET/OOP1/excercises/todo/bin/Debug/net9.0/todo.pdb
+/Users/daniel/ownProjects/SUVNET/OOP1/excercises/todo/obj/Debug/net9.0/todo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel/ownProjects/SUVNET/OOP1/excercises/todo/obj/Debug/net9.0/todo.AssemblyInfoInputs.cache
+/Users/daniel/ownProjects/SUVNET/OOP1/excercises/todo/obj/Debug/net9.0/todo.AssemblyInfo.cs
+/Users/daniel/ownProjects/SUVNET/OOP1/excercises/todo/obj/Debug/net9.0/todo.csproj.CoreCompileInputs.cache
+/Users/daniel/ownProjects/SUVNET/OOP1/excercises/todo/obj/Debug/net9.0/todo.dll
+/Users/daniel/ownProjects/SUVNET/OOP1/excercises/todo/obj/Debug/net9.0/refint/todo.dll
+/Users/daniel/ownProjects/SUVNET/OOP1/excercises/todo/obj/Debug/net9.0/todo.pdb
+/Users/daniel/ownProjects/SUVNET/OOP1/excercises/todo/obj/Debug/net9.0/todo.genruntimeconfig.cache
+/Users/daniel/ownProjects/SUVNET/OOP1/excercises/todo/obj/Debug/net9.0/ref/todo.dll
