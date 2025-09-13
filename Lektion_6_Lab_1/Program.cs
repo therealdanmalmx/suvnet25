@@ -116,7 +116,6 @@
     {
         double communeTaxRate = GetCityTaxRate(city);
 
-        Console.WriteLine($"Commune tax: {communeTaxRate}");
         int taxFreeAmountNormal = 24900;
         int taxFreeAmountPensioner = 65300;
         double calculateTax;
@@ -181,20 +180,19 @@
 
         return age;
     }
-
     static double GetCityTaxRate(string city)
     {
         string[] cityList = File.ReadAllLines("skattesatser.csv".ToLower().Trim());
-        double cityTaxRate = 0;
+        double cityTaxRate = 0.2;
 
         for (int i = 0; i < cityList.Length; i++)
         {
+            cityTaxRate = Math.Round(double.Parse(cityList[i].ToLower().Split(",")[1].Trim()) / 100, 4);
             if (cityList[i].ToLower().Split(",")[0].Trim() == city.ToLower())
             {
                 cityTaxRate = Math.Round(double.Parse(cityList[i].ToLower().Split(",")[1].Trim()) / 100, 4);
             }
         }
-        Console.WriteLine(cityTaxRate);
         return cityTaxRate;
     }
 }
