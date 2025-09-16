@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ADRESSBOK")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd0609758efc422cc7ea6f1cab26e3f67aae554a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+433c86883e691259fe2da1984674587abdad3e55")]
 [assembly: System.Reflection.AssemblyProductAttribute("ADRESSBOK")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ADRESSBOK")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
