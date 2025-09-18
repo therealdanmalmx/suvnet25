@@ -49,9 +49,9 @@ internal class Program
         {
             Contact newContact = new Contact();
             Console.Write("Skriv in ett namn: ");
-            newContact.name = Console.ReadLine().Trim();
+            newContact.Name = Console.ReadLine().Trim();
             Console.Write("Och ett nummer: ");
-            newContact.number = Console.ReadLine().Trim();
+            newContact.Number = Console.ReadLine().Trim();
 
             contacts.Add(newContact);
         }
@@ -71,7 +71,7 @@ internal class Program
 
                 for (int i = 0; i < listContacts.Count; i++)
                 {
-                    Console.WriteLine($"{i + 1}. {listContacts[i].name.Trim()} - {listContacts[i].number.Trim()}");
+                    Console.WriteLine($"{i + 1}. {listContacts[i].Name.Trim()} - {listContacts[i].Number.Trim()}");
                 }
             }
             Console.WriteLine("-------------------");
@@ -113,10 +113,10 @@ internal class Program
 
             for (int i = 0; i < contacts.Count; i++)
             {
-                if (contacts[i].name.ToLower().Contains(searchName.ToLower()))
+                if (contacts[i].Name.ToLower().Contains(searchName.ToLower()))
                 {
                     Console.WriteLine();
-                    Console.WriteLine($"{i + 1}. {contacts[i].name} - {contacts[i].number}");
+                    Console.WriteLine($"{i + 1}. {contacts[i].Name} - {contacts[i].Number}");
                     Console.WriteLine();
                     continue;
                 }

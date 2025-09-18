@@ -2,7 +2,7 @@ using System.Runtime;
 
 class Contact
 {
-    public string name;
-    public string number;
+    public string Name;
+    public string Number;
 
 }
