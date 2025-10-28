@@ -1,0 +1,15 @@
+/Users/daniel/ownProjects/SUVNET/OOP1/excercises/MethodExcercises/bin/Debug/net10.0/MethodExcercises
+/Users/daniel/ownProjects/SUVNET/OOP1/excercises/MethodExcercises/bin/Debug/net10.0/MethodExcercises.deps.json
+/Users/daniel/ownProjects/SUVNET/OOP1/excercises/MethodExcercises/bin/Debug/net10.0/MethodExcercises.runtimeconfig.json
+/Users/daniel/ownProjects/SUVNET/OOP1/excercises/MethodExcercises/bin/Debug/net10.0/MethodExcercises.dll
+/Users/daniel/ownProjects/SUVNET/OOP1/excercises/MethodExcercises/bin/Debug/net10.0/MethodExcercises.pdb
+/Users/daniel/ownProjects/SUVNET/OOP1/excercises/MethodExcercises/obj/Debug/net10.0/MethodExcercises.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel/ownProjects/SUVNET/OOP1/excercises/MethodExcercises/obj/Debug/net10.0/MethodExcercises.AssemblyInfoInputs.cache
+/Users/daniel/ownProjects/SUVNET/OOP1/excercises/MethodExcercises/obj/Debug/net10.0/MethodExcercises.AssemblyInfo.cs
+/Users/daniel/ownProjects/SUVNET/OOP1/excercises/MethodExcercises/obj/Debug/net10.0/MethodExcercises.csproj.CoreCompileInputs.cache
+/Users/daniel/ownProjects/SUVNET/OOP1/excercises/MethodExcercises/obj/Debug/net10.0/MethodExcercises.sourcelink.json
+/Users/daniel/ownProjects/SUVNET/OOP1/excercises/MethodExcercises/obj/Debug/net10.0/MethodExcercises.dll
+/Users/daniel/ownProjects/SUVNET/OOP1/excercises/MethodExcercises/obj/Debug/net10.0/refint/MethodExcercises.dll
+/Users/daniel/ownProjects/SUVNET/OOP1/excercises/MethodExcercises/obj/Debug/net10.0/MethodExcercises.pdb
+/Users/daniel/ownProjects/SUVNET/OOP1/excercises/MethodExcercises/obj/Debug/net10.0/MethodExcercises.genruntimeconfig.cache
+/Users/daniel/ownProjects/SUVNET/OOP1/excercises/MethodExcercises/obj/Debug/net10.0/ref/MethodExcercises.dll
