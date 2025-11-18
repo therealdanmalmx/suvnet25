@@ -1,0 +1,24 @@
+﻿namespace PasswordValidator;
+
+public class PasswordValidator
+{
+    static void Main(string[] args)
+    {
+    }
+    public static bool Validate(string input)
+    {
+        bool correctLength = input.Length >= 8 ? true : false;
+        Console.WriteLine("correctLength" + correctLength);
+
+        bool chekValue = true;
+        char[] validators = ['_', '.', '*'];
+
+        foreach(char v in validators)
+        {
+            chekValue = !input.Contains(v) ? false : true;
+            Console.WriteLine("chekValue" + chekValue);
+        }
+
+        return chekValue && correctLength;
+    }
+}
