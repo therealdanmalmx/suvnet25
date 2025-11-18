@@ -4,9 +4,22 @@ namespace PasswordValidator.Tests;
 
 public class UnitTest1
 {
+    // [Theory]
+    // [InlineData("dan_1.2*34567")]
+    // public void ValidatorWithString(string input)
+    // {
+    //     // Arrange
+
+    //     // Act
+    //     bool actual = PasswordValidator.Validate(input);
+
+    //     //Assert
+    //     Assert.True(actual);
+    // }
+
     [Theory]
-    [InlineData("dan_1.2*34567")]
-    public void ValidatorWithString(string input)
+    [InlineData("dan_a.b*123")]
+    public void ValidatorContainNumbers(string input)
     {
         // Arrange
 

@@ -19,6 +19,19 @@ public class PasswordValidator
             Console.WriteLine("chekValue" + chekValue);
         }
 
-        return chekValue && correctLength;
+        bool hasNumbers = false;
+        foreach(char numb in input)
+        {
+            if (char.IsNumber(numb))
+            {
+                hasNumbers = true;
+            }
+            else
+            {
+                hasNumbers = false;
+            }
+        }
+
+        return chekValue && correctLength && hasNumbers;
     }
 }
