@@ -10,13 +10,12 @@ public class PasswordValidator
         bool correctLength = input.Length >= 8 ? true : false;
         Console.WriteLine("correctLength" + correctLength);
 
-        bool chekValue = true;
-        char[] validators = ['!', '#', '&', '/', '(', ')', '?', '[', ']'];
+        bool chekValue = false;
+        char[] validators = ['!'];
 
         foreach(char v in validators)
         {
             chekValue = !input.Contains(v) ? false : true;
-            Console.WriteLine("chekValue" + chekValue);
         }
 
         bool hasNumbers = false;

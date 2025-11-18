@@ -18,7 +18,7 @@ public class UnitTest1
     // }
 
     [Theory]
-    [InlineData("dan_a.b*!#&/()?[]123")]
+    [InlineData("dan_a.b*123")]
     public void ValidatorContainNumbers(string input)
     {
         // Arrange
