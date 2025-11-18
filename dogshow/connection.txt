@@ -1,0 +1,1 @@
+Server=comet-direct.usbx.me;Port=17815;Database=yh_daniel_dogexhibition;User Id=yh_daniel;Password=1Xru2n^kaDcA;

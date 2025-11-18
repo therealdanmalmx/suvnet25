@@ -1,0 +1,15 @@
+/Users/daniel/ownProjects/SUVNET/OOP1/kort_projekt/bin/Debug/net10.0/kort_projekt
+/Users/daniel/ownProjects/SUVNET/OOP1/kort_projekt/bin/Debug/net10.0/kort_projekt.deps.json
+/Users/daniel/ownProjects/SUVNET/OOP1/kort_projekt/bin/Debug/net10.0/kort_projekt.runtimeconfig.json
+/Users/daniel/ownProjects/SUVNET/OOP1/kort_projekt/bin/Debug/net10.0/kort_projekt.dll
+/Users/daniel/ownProjects/SUVNET/OOP1/kort_projekt/bin/Debug/net10.0/kort_projekt.pdb
+/Users/daniel/ownProjects/SUVNET/OOP1/kort_projekt/obj/Debug/net10.0/kort_projekt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel/ownProjects/SUVNET/OOP1/kort_projekt/obj/Debug/net10.0/kort_projekt.AssemblyInfoInputs.cache
+/Users/daniel/ownProjects/SUVNET/OOP1/kort_projekt/obj/Debug/net10.0/kort_projekt.AssemblyInfo.cs
+/Users/daniel/ownProjects/SUVNET/OOP1/kort_projekt/obj/Debug/net10.0/kort_projekt.csproj.CoreCompileInputs.cache
+/Users/daniel/ownProjects/SUVNET/OOP1/kort_projekt/obj/Debug/net10.0/kort_projekt.sourcelink.json
+/Users/daniel/ownProjects/SUVNET/OOP1/kort_projekt/obj/Debug/net10.0/kort_projekt.dll
+/Users/daniel/ownProjects/SUVNET/OOP1/kort_projekt/obj/Debug/net10.0/refint/kort_projekt.dll
+/Users/daniel/ownProjects/SUVNET/OOP1/kort_projekt/obj/Debug/net10.0/kort_projekt.pdb
+/Users/daniel/ownProjects/SUVNET/OOP1/kort_projekt/obj/Debug/net10.0/kort_projekt.genruntimeconfig.cache
+/Users/daniel/ownProjects/SUVNET/OOP1/kort_projekt/obj/Debug/net10.0/ref/kort_projekt.dll
