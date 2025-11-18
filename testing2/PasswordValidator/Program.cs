@@ -11,7 +11,7 @@ public class PasswordValidator
         Console.WriteLine("correctLength" + correctLength);
 
         bool chekValue = true;
-        char[] validators = ['_', '.', '*'];
+        char[] validators = ['!', '#', '&', '/', '(', ')', '?', '[', ']'];
 
         foreach(char v in validators)
         {
