@@ -1,36 +1,74 @@
-﻿namespace PasswordValidator;
+﻿using System.Runtime.InteropServices;
+
+namespace PasswordValidator;
 
 public class PasswordValidator
 {
     static void Main(string[] args)
     {
     }
+
     public static bool Validate(string input)
     {
-        bool correctLength = input.Length >= 8 ? true : false;
-        Console.WriteLine("correctLength" + correctLength);
+        Console.WriteLine(ValidateLength(input));
+        Console.WriteLine(ValidateSpecialCharacter(input));
+        Console.WriteLine(ValidateHasNumber(input));
 
-        bool chekValue = false;
-        char[] validators = ['!'];
-
-        foreach(char v in validators)
+        if (!ValidateLength(input))
         {
-            chekValue = !input.Contains(v) ? false : true;
+            return false;
         }
 
-        bool hasNumbers = false;
+        else if (!ValidateHasNumber(input))
+        {
+            return false;
+        }
+
+        else if (!ValidateSpecialCharacter(input))
+        {
+            return false;
+        }
+
+        return true;
+    }
+    public static bool ValidateSpecialCharacter(string input)
+    {
+        char[] validators = ['!', '#', '&', '/', '(', ')', '?', '[', ']'];
+
+        bool hasSpecialCharacter = false;
+
+        foreach (char character in validators)
+        {
+            bool chekValue = !input.Contains(character) ? false : true;
+
+            if (chekValue == true)
+            {
+                hasSpecialCharacter = true;
+            }
+        }
+
+        return hasSpecialCharacter;
+    }
+    public static bool ValidateHasNumber(string input)
+    {
+        bool containsNumber = false;
+
         foreach(char numb in input)
         {
-            if (char.IsNumber(numb))
+            bool checkNumber = char.IsNumber(numb) ? true : false;
+
+            if (checkNumber == true)
             {
-                hasNumbers = true;
-            }
-            else
-            {
-                hasNumbers = false;
+                containsNumber = true;
             }
         }
 
-        return chekValue && correctLength && hasNumbers;
+        return containsNumber;
+    }
+    public static bool ValidateLength(string input)
+    {
+        bool correctLength = input.Length >= 8 ? true : false;
+
+        return correctLength;
     }
 }

@@ -4,27 +4,43 @@ namespace PasswordValidator.Tests;
 
 public class UnitTest1
 {
-    // [Theory]
-    // [InlineData("dan_1.2*34567")]
-    // public void ValidatorWithString(string input)
-    // {
-    //     // Arrange
+    [Theory]
+    [InlineData("dan!123malmgreen")]
 
-    //     // Act
-    //     bool actual = PasswordValidator.Validate(input);
+    public void ValidateAll(string input)
+    {
+        bool actual = PasswordValidator.Validate(input);
 
-    //     //Assert
-    //     Assert.True(actual);
-    // }
+        //Assert
+        Assert.True(actual);
+    }
 
     [Theory]
-    [InlineData("dan_a.b*123")]
-    public void ValidatorContainNumbers(string input)
+    [InlineData("dan!123malmgreen")]
+    public void ValidatorNumbers(string input)
     {
-        // Arrange
+        bool actual = PasswordValidator.ValidateHasNumber(input);
 
+        Assert.True(actual);
+    }
+
+    [Theory]
+    [InlineData("dan!")]
+    public void ValidatorHasCharacter(string input)
+    {
         // Act
-        bool actual = PasswordValidator.Validate(input);
+        bool actual = PasswordValidator.ValidateSpecialCharacter(input);
+
+        //Assert
+        Assert.True(actual);
+    }
+
+    [Theory]
+    [InlineData("danmalmthemalm")]
+    public void ValidatorLength(string input)
+    {
+        // Act
+        bool actual = PasswordValidator.ValidateLength(input);
 
         //Assert
         Assert.True(actual);
