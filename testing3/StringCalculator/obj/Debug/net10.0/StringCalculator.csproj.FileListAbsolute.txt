@@ -1,0 +1,15 @@
+/Users/daniel/ownProjects/SUVNET/OOP1/testing3/StringCalculator/bin/Debug/net10.0/StringCalculator
+/Users/daniel/ownProjects/SUVNET/OOP1/testing3/StringCalculator/bin/Debug/net10.0/StringCalculator.deps.json
+/Users/daniel/ownProjects/SUVNET/OOP1/testing3/StringCalculator/bin/Debug/net10.0/StringCalculator.runtimeconfig.json
+/Users/daniel/ownProjects/SUVNET/OOP1/testing3/StringCalculator/bin/Debug/net10.0/StringCalculator.dll
+/Users/daniel/ownProjects/SUVNET/OOP1/testing3/StringCalculator/bin/Debug/net10.0/StringCalculator.pdb
+/Users/daniel/ownProjects/SUVNET/OOP1/testing3/StringCalculator/obj/Debug/net10.0/StringCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel/ownProjects/SUVNET/OOP1/testing3/StringCalculator/obj/Debug/net10.0/StringCalculator.AssemblyInfoInputs.cache
+/Users/daniel/ownProjects/SUVNET/OOP1/testing3/StringCalculator/obj/Debug/net10.0/StringCalculator.AssemblyInfo.cs
+/Users/daniel/ownProjects/SUVNET/OOP1/testing3/StringCalculator/obj/Debug/net10.0/StringCalculator.csproj.CoreCompileInputs.cache
+/Users/daniel/ownProjects/SUVNET/OOP1/testing3/StringCalculator/obj/Debug/net10.0/StringCalculator.sourcelink.json
+/Users/daniel/ownProjects/SUVNET/OOP1/testing3/StringCalculator/obj/Debug/net10.0/StringCalculator.dll
+/Users/daniel/ownProjects/SUVNET/OOP1/testing3/StringCalculator/obj/Debug/net10.0/refint/StringCalculator.dll
+/Users/daniel/ownProjects/SUVNET/OOP1/testing3/StringCalculator/obj/Debug/net10.0/StringCalculator.pdb
+/Users/daniel/ownProjects/SUVNET/OOP1/testing3/StringCalculator/obj/Debug/net10.0/StringCalculator.genruntimeconfig.cache
+/Users/daniel/ownProjects/SUVNET/OOP1/testing3/StringCalculator/obj/Debug/net10.0/ref/StringCalculator.dll

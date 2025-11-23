@@ -10,10 +10,6 @@ public class PasswordValidator
 
     public static bool Validate(string input)
     {
-        Console.WriteLine(ValidateLength(input));
-        Console.WriteLine(ValidateSpecialCharacter(input));
-        Console.WriteLine(ValidateHasNumber(input));
-
         if (!ValidateLength(input))
         {
             return false;

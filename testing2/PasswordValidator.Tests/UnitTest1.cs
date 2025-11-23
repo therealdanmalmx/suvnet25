@@ -5,7 +5,7 @@ namespace PasswordValidator.Tests;
 public class UnitTest1
 {
     [Theory]
-    [InlineData("dan!123malmgreen")]
+    [InlineData("dan/123malmgreen")]
 
     public void ValidateAll(string input)
     {
