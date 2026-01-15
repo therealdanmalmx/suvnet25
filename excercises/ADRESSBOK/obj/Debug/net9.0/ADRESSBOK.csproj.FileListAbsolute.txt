@@ -1,0 +1,15 @@
+/Users/daniel/ownProjects/SUVNET/OOP1/excercises/ADRESSBOK/bin/Debug/net9.0/ADRESSBOK
+/Users/daniel/ownProjects/SUVNET/OOP1/excercises/ADRESSBOK/bin/Debug/net9.0/ADRESSBOK.deps.json
+/Users/daniel/ownProjects/SUVNET/OOP1/excercises/ADRESSBOK/bin/Debug/net9.0/ADRESSBOK.runtimeconfig.json
+/Users/daniel/ownProjects/SUVNET/OOP1/excercises/ADRESSBOK/bin/Debug/net9.0/ADRESSBOK.dll
+/Users/daniel/ownProjects/SUVNET/OOP1/excercises/ADRESSBOK/bin/Debug/net9.0/ADRESSBOK.pdb
+/Users/daniel/ownProjects/SUVNET/OOP1/excercises/ADRESSBOK/obj/Debug/net9.0/ADRESSBOK.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel/ownProjects/SUVNET/OOP1/excercises/ADRESSBOK/obj/Debug/net9.0/ADRESSBOK.AssemblyInfoInputs.cache
+/Users/daniel/ownProjects/SUVNET/OOP1/excercises/ADRESSBOK/obj/Debug/net9.0/ADRESSBOK.AssemblyInfo.cs
+/Users/daniel/ownProjects/SUVNET/OOP1/excercises/ADRESSBOK/obj/Debug/net9.0/ADRESSBOK.csproj.CoreCompileInputs.cache
+/Users/daniel/ownProjects/SUVNET/OOP1/excercises/ADRESSBOK/obj/Debug/net9.0/ADRESSBOK.sourcelink.json
+/Users/daniel/ownProjects/SUVNET/OOP1/excercises/ADRESSBOK/obj/Debug/net9.0/ADRESSBOK.dll
+/Users/daniel/ownProjects/SUVNET/OOP1/excercises/ADRESSBOK/obj/Debug/net9.0/refint/ADRESSBOK.dll
+/Users/daniel/ownProjects/SUVNET/OOP1/excercises/ADRESSBOK/obj/Debug/net9.0/ADRESSBOK.pdb
+/Users/daniel/ownProjects/SUVNET/OOP1/excercises/ADRESSBOK/obj/Debug/net9.0/ADRESSBOK.genruntimeconfig.cache
+/Users/daniel/ownProjects/SUVNET/OOP1/excercises/ADRESSBOK/obj/Debug/net9.0/ref/ADRESSBOK.dll

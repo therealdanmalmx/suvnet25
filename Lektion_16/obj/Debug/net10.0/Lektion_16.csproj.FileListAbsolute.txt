@@ -1,0 +1,15 @@
+/Users/daniel/ownProjects/SUVNET/OOP1/Lektion_16/bin/Debug/net10.0/Lektion_16
+/Users/daniel/ownProjects/SUVNET/OOP1/Lektion_16/bin/Debug/net10.0/Lektion_16.deps.json
+/Users/daniel/ownProjects/SUVNET/OOP1/Lektion_16/bin/Debug/net10.0/Lektion_16.runtimeconfig.json
+/Users/daniel/ownProjects/SUVNET/OOP1/Lektion_16/bin/Debug/net10.0/Lektion_16.dll
+/Users/daniel/ownProjects/SUVNET/OOP1/Lektion_16/bin/Debug/net10.0/Lektion_16.pdb
+/Users/daniel/ownProjects/SUVNET/OOP1/Lektion_16/obj/Debug/net10.0/Lektion_16.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel/ownProjects/SUVNET/OOP1/Lektion_16/obj/Debug/net10.0/Lektion_16.AssemblyInfoInputs.cache
+/Users/daniel/ownProjects/SUVNET/OOP1/Lektion_16/obj/Debug/net10.0/Lektion_16.AssemblyInfo.cs
+/Users/daniel/ownProjects/SUVNET/OOP1/Lektion_16/obj/Debug/net10.0/Lektion_16.csproj.CoreCompileInputs.cache
+/Users/daniel/ownProjects/SUVNET/OOP1/Lektion_16/obj/Debug/net10.0/Lektion_16.sourcelink.json
+/Users/daniel/ownProjects/SUVNET/OOP1/Lektion_16/obj/Debug/net10.0/Lektion_16.dll
+/Users/daniel/ownProjects/SUVNET/OOP1/Lektion_16/obj/Debug/net10.0/refint/Lektion_16.dll
+/Users/daniel/ownProjects/SUVNET/OOP1/Lektion_16/obj/Debug/net10.0/Lektion_16.pdb
+/Users/daniel/ownProjects/SUVNET/OOP1/Lektion_16/obj/Debug/net10.0/Lektion_16.genruntimeconfig.cache
+/Users/daniel/ownProjects/SUVNET/OOP1/Lektion_16/obj/Debug/net10.0/ref/Lektion_16.dll

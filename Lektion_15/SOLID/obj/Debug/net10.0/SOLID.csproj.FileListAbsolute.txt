@@ -1,0 +1,15 @@
+/Users/daniel/ownProjects/SUVNET/OOP1/Lektion_15/SOLID/bin/Debug/net10.0/SOLID
+/Users/daniel/ownProjects/SUVNET/OOP1/Lektion_15/SOLID/bin/Debug/net10.0/SOLID.deps.json
+/Users/daniel/ownProjects/SUVNET/OOP1/Lektion_15/SOLID/bin/Debug/net10.0/SOLID.runtimeconfig.json
+/Users/daniel/ownProjects/SUVNET/OOP1/Lektion_15/SOLID/bin/Debug/net10.0/SOLID.dll
+/Users/daniel/ownProjects/SUVNET/OOP1/Lektion_15/SOLID/bin/Debug/net10.0/SOLID.pdb
+/Users/daniel/ownProjects/SUVNET/OOP1/Lektion_15/SOLID/obj/Debug/net10.0/SOLID.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel/ownProjects/SUVNET/OOP1/Lektion_15/SOLID/obj/Debug/net10.0/SOLID.AssemblyInfoInputs.cache
+/Users/daniel/ownProjects/SUVNET/OOP1/Lektion_15/SOLID/obj/Debug/net10.0/SOLID.AssemblyInfo.cs
+/Users/daniel/ownProjects/SUVNET/OOP1/Lektion_15/SOLID/obj/Debug/net10.0/SOLID.csproj.CoreCompileInputs.cache
+/Users/daniel/ownProjects/SUVNET/OOP1/Lektion_15/SOLID/obj/Debug/net10.0/SOLID.sourcelink.json
+/Users/daniel/ownProjects/SUVNET/OOP1/Lektion_15/SOLID/obj/Debug/net10.0/SOLID.dll
+/Users/daniel/ownProjects/SUVNET/OOP1/Lektion_15/SOLID/obj/Debug/net10.0/refint/SOLID.dll
+/Users/daniel/ownProjects/SUVNET/OOP1/Lektion_15/SOLID/obj/Debug/net10.0/SOLID.pdb
+/Users/daniel/ownProjects/SUVNET/OOP1/Lektion_15/SOLID/obj/Debug/net10.0/SOLID.genruntimeconfig.cache
+/Users/daniel/ownProjects/SUVNET/OOP1/Lektion_15/SOLID/obj/Debug/net10.0/ref/SOLID.dll
