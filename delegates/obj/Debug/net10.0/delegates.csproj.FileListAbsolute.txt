@@ -1,0 +1,14 @@
+/Users/daniel/ownProjects/SUVNET/OOP2/delegates/bin/Debug/net10.0/delegates
+/Users/daniel/ownProjects/SUVNET/OOP2/delegates/bin/Debug/net10.0/delegates.deps.json
+/Users/daniel/ownProjects/SUVNET/OOP2/delegates/bin/Debug/net10.0/delegates.runtimeconfig.json
+/Users/daniel/ownProjects/SUVNET/OOP2/delegates/bin/Debug/net10.0/delegates.dll
+/Users/daniel/ownProjects/SUVNET/OOP2/delegates/bin/Debug/net10.0/delegates.pdb
+/Users/daniel/ownProjects/SUVNET/OOP2/delegates/obj/Debug/net10.0/delegates.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel/ownProjects/SUVNET/OOP2/delegates/obj/Debug/net10.0/delegates.AssemblyInfoInputs.cache
+/Users/daniel/ownProjects/SUVNET/OOP2/delegates/obj/Debug/net10.0/delegates.AssemblyInfo.cs
+/Users/daniel/ownProjects/SUVNET/OOP2/delegates/obj/Debug/net10.0/delegates.csproj.CoreCompileInputs.cache
+/Users/daniel/ownProjects/SUVNET/OOP2/delegates/obj/Debug/net10.0/delegates.dll
+/Users/daniel/ownProjects/SUVNET/OOP2/delegates/obj/Debug/net10.0/refint/delegates.dll
+/Users/daniel/ownProjects/SUVNET/OOP2/delegates/obj/Debug/net10.0/delegates.pdb
+/Users/daniel/ownProjects/SUVNET/OOP2/delegates/obj/Debug/net10.0/delegates.genruntimeconfig.cache
+/Users/daniel/ownProjects/SUVNET/OOP2/delegates/obj/Debug/net10.0/ref/delegates.dll

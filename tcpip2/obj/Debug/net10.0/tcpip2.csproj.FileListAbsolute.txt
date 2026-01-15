@@ -1,0 +1,14 @@
+/Users/daniel/ownProjects/SUVNET/OOP2/tcpip2/bin/Debug/net10.0/tcpip2
+/Users/daniel/ownProjects/SUVNET/OOP2/tcpip2/bin/Debug/net10.0/tcpip2.deps.json
+/Users/daniel/ownProjects/SUVNET/OOP2/tcpip2/bin/Debug/net10.0/tcpip2.runtimeconfig.json
+/Users/daniel/ownProjects/SUVNET/OOP2/tcpip2/bin/Debug/net10.0/tcpip2.dll
+/Users/daniel/ownProjects/SUVNET/OOP2/tcpip2/bin/Debug/net10.0/tcpip2.pdb
+/Users/daniel/ownProjects/SUVNET/OOP2/tcpip2/obj/Debug/net10.0/tcpip2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel/ownProjects/SUVNET/OOP2/tcpip2/obj/Debug/net10.0/tcpip2.AssemblyInfoInputs.cache
+/Users/daniel/ownProjects/SUVNET/OOP2/tcpip2/obj/Debug/net10.0/tcpip2.AssemblyInfo.cs
+/Users/daniel/ownProjects/SUVNET/OOP2/tcpip2/obj/Debug/net10.0/tcpip2.csproj.CoreCompileInputs.cache
+/Users/daniel/ownProjects/SUVNET/OOP2/tcpip2/obj/Debug/net10.0/tcpip2.dll
+/Users/daniel/ownProjects/SUVNET/OOP2/tcpip2/obj/Debug/net10.0/refint/tcpip2.dll
+/Users/daniel/ownProjects/SUVNET/OOP2/tcpip2/obj/Debug/net10.0/tcpip2.pdb
+/Users/daniel/ownProjects/SUVNET/OOP2/tcpip2/obj/Debug/net10.0/tcpip2.genruntimeconfig.cache
+/Users/daniel/ownProjects/SUVNET/OOP2/tcpip2/obj/Debug/net10.0/ref/tcpip2.dll

@@ -1,0 +1,14 @@
+/Users/daniel/ownProjects/SUVNET/OOP2/extensionMethods/bin/Debug/net10.0/extensionMethods
+/Users/daniel/ownProjects/SUVNET/OOP2/extensionMethods/bin/Debug/net10.0/extensionMethods.deps.json
+/Users/daniel/ownProjects/SUVNET/OOP2/extensionMethods/bin/Debug/net10.0/extensionMethods.runtimeconfig.json
+/Users/daniel/ownProjects/SUVNET/OOP2/extensionMethods/bin/Debug/net10.0/extensionMethods.dll
+/Users/daniel/ownProjects/SUVNET/OOP2/extensionMethods/bin/Debug/net10.0/extensionMethods.pdb
+/Users/daniel/ownProjects/SUVNET/OOP2/extensionMethods/obj/Debug/net10.0/extensionMethods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel/ownProjects/SUVNET/OOP2/extensionMethods/obj/Debug/net10.0/extensionMethods.AssemblyInfoInputs.cache
+/Users/daniel/ownProjects/SUVNET/OOP2/extensionMethods/obj/Debug/net10.0/extensionMethods.AssemblyInfo.cs
+/Users/daniel/ownProjects/SUVNET/OOP2/extensionMethods/obj/Debug/net10.0/extensionMethods.csproj.CoreCompileInputs.cache
+/Users/daniel/ownProjects/SUVNET/OOP2/extensionMethods/obj/Debug/net10.0/extensionMethods.dll
+/Users/daniel/ownProjects/SUVNET/OOP2/extensionMethods/obj/Debug/net10.0/refint/extensionMethods.dll
+/Users/daniel/ownProjects/SUVNET/OOP2/extensionMethods/obj/Debug/net10.0/extensionMethods.pdb
+/Users/daniel/ownProjects/SUVNET/OOP2/extensionMethods/obj/Debug/net10.0/extensionMethods.genruntimeconfig.cache
+/Users/daniel/ownProjects/SUVNET/OOP2/extensionMethods/obj/Debug/net10.0/ref/extensionMethods.dll

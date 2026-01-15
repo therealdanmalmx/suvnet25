@@ -1,0 +1,14 @@
+/Users/daniel/ownProjects/SUVNET/OOP2/http/bin/Debug/net10.0/http
+/Users/daniel/ownProjects/SUVNET/OOP2/http/bin/Debug/net10.0/http.deps.json
+/Users/daniel/ownProjects/SUVNET/OOP2/http/bin/Debug/net10.0/http.runtimeconfig.json
+/Users/daniel/ownProjects/SUVNET/OOP2/http/bin/Debug/net10.0/http.dll
+/Users/daniel/ownProjects/SUVNET/OOP2/http/bin/Debug/net10.0/http.pdb
+/Users/daniel/ownProjects/SUVNET/OOP2/http/obj/Debug/net10.0/http.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel/ownProjects/SUVNET/OOP2/http/obj/Debug/net10.0/http.AssemblyInfoInputs.cache
+/Users/daniel/ownProjects/SUVNET/OOP2/http/obj/Debug/net10.0/http.AssemblyInfo.cs
+/Users/daniel/ownProjects/SUVNET/OOP2/http/obj/Debug/net10.0/http.csproj.CoreCompileInputs.cache
+/Users/daniel/ownProjects/SUVNET/OOP2/http/obj/Debug/net10.0/http.dll
+/Users/daniel/ownProjects/SUVNET/OOP2/http/obj/Debug/net10.0/refint/http.dll
+/Users/daniel/ownProjects/SUVNET/OOP2/http/obj/Debug/net10.0/http.pdb
+/Users/daniel/ownProjects/SUVNET/OOP2/http/obj/Debug/net10.0/http.genruntimeconfig.cache
+/Users/daniel/ownProjects/SUVNET/OOP2/http/obj/Debug/net10.0/ref/http.dll
