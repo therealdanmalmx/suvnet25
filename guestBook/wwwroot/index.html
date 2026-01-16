@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script defer src="script.js"></script>
+    <title>Guest</title>
+</head>
+<body>
+    <h1>Be our guest</h1>
+    <form action="/api/guests" method="post">
+        <label for="name">Name</label><br>
+        <input type="text" name="name"><br>
+        <label for="message">Message</label><br>
+        <textarea name="message"></textarea><br>
+        <button type="submit">Sign Up</button>
+    </form>
+    <h1>Guest List:</h1>
+    <p id="guest-list" style="color: black;"></p>
+</body>
+</html>

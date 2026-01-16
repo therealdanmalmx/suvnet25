@@ -12,3 +12,4 @@
 /Users/daniel/ownProjects/SUVNET/OOP2/http/obj/Debug/net10.0/http.pdb
 /Users/daniel/ownProjects/SUVNET/OOP2/http/obj/Debug/net10.0/http.genruntimeconfig.cache
 /Users/daniel/ownProjects/SUVNET/OOP2/http/obj/Debug/net10.0/ref/http.dll
+/Users/daniel/ownProjects/SUVNET/OOP2/http/obj/Debug/net10.0/http.sourcelink.json
