@@ -1,0 +1,19 @@
+GET https://api.adviceslip.com/advice HTTP/1.1
+GET https://official-joke-api.appspot.com/random_joke HTTP/1.1
+GET https://dog.ceo/dog-api/documentation HTTP/1.1
+GET https://dog.ceo/img/dog-api-fb.jpg HTTP/1.1
+GET https://dog.ceo/dog-api HTTP/1.1
+GET https://dog.ceo/api/breeds/list/all HTTP/1.1
+GET https://polisen.se/api/events HTTP/1.1
+GET https://jsonplaceholder.typicode.com/posts/1 HTTP/1.1
+
+POST  https://jsonplaceholder.typicode.com/posts HTTP/1.1
+Content-Type: application/json
+
+{
+    "userId": "101",
+    "title": "Best",
+    "body": "lorem"
+}
+
+GET https://http.cat/status/100-continue.jpg HTTP/1.1

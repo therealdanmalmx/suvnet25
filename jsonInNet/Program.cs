@@ -13,7 +13,7 @@ Console.WriteLine(jsonString2);
 Person? deserializedPerson = JsonSerializer.Deserialize<Person>(jsonString);
 Console.WriteLine($"Name: {deserializedPerson?.Name}, Age: {deserializedPerson?.Age}");
 User? deserializedUser = JsonSerializer.Deserialize<User>(jsonString2);
-Console.WriteLine($"Id: {deserializedUser?.Id}, Name: {deserializedUser?.Name} IsActive: {deserializedUser?.IsActive} Roles: {deserializedUser?.Roles}");
+Console.WriteLine($"Id: {deserializedUser?.Id}, Name: {deserializedUser?.Name} IsActive: {deserializedUser?.IsActive} Roles: {deserializedUser?.Roles.ToList()}");
 
 Book? deserializedBook = JsonSerializer.Deserialize<Book>(File.ReadAllText("book.json"), new JsonSerializerOptions {PropertyNameCaseInsensitive = true});
 Console.WriteLine($"Title: {deserializedBook?.Title}, Name: {deserializedBook?.Author} Year: {deserializedBook?.Year} Price: {deserializedBook?.Price} InStock: {deserializedBook?.InStock}");
