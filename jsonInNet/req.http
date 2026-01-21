@@ -16,4 +16,4 @@ Content-Type: application/json
     "body": "lorem"
 }
 
-GET https://http.cat/status/100-continue.jpg HTTP/1.1
+GET https://www.suvnet.se/api/customers HTTP/1.1
