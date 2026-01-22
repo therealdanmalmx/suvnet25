@@ -1,0 +1,35 @@
+POST http://10.9.1.230:5000/api/register HTTP/1.1
+Content-Type: application/json
+
+{
+    "nick": "theHellYesser",
+    "port": 5165
+}
+
+GET http://localhost:5165/api/books HTTP/1.1
+
+POST http://localhost:5165/api/books HTTP/1.1
+Content-Type: application/json
+
+{
+    "Id": 1,
+    "Title": "Harry Potter and the Philosopher's Stone",
+    "Author": "J.K. Rowling",
+    "Year": 1997
+}
+
+POST http://localhost:5165/api/books/search?a=j HTTP/1.1
+
+POST http://localhost:5165/api/books/register HTTP/1.1
+Content-Type: application/json
+
+{
+    "Title": "Harry Potter and the Philosopher's Stone",
+    "Author": "J.K. Rowling",
+    "Year": 1997
+
+    "Title": "Harry Potter and the Chamber of Secrets",
+    "Author": "J.K. Rowling",
+    "Year": 1998,
+}
+
