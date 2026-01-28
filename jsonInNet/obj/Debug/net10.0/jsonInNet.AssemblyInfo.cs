@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("jsonInNet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03108c0f083fb6d1b0bd9182f324742ef8f50ffd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+425a03173bffc143088f33c76924e54d1c0e1ce2")]
 [assembly: System.Reflection.AssemblyProductAttribute("jsonInNet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("jsonInNet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
