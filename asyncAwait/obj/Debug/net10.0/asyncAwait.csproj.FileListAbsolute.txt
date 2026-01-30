@@ -1,0 +1,15 @@
+/Users/daniel/ownProjects/SUVNET/OOP2/asyncAwait/bin/Debug/net10.0/asyncAwait
+/Users/daniel/ownProjects/SUVNET/OOP2/asyncAwait/bin/Debug/net10.0/asyncAwait.deps.json
+/Users/daniel/ownProjects/SUVNET/OOP2/asyncAwait/bin/Debug/net10.0/asyncAwait.runtimeconfig.json
+/Users/daniel/ownProjects/SUVNET/OOP2/asyncAwait/bin/Debug/net10.0/asyncAwait.dll
+/Users/daniel/ownProjects/SUVNET/OOP2/asyncAwait/bin/Debug/net10.0/asyncAwait.pdb
+/Users/daniel/ownProjects/SUVNET/OOP2/asyncAwait/obj/Debug/net10.0/asyncAwait.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel/ownProjects/SUVNET/OOP2/asyncAwait/obj/Debug/net10.0/asyncAwait.AssemblyInfoInputs.cache
+/Users/daniel/ownProjects/SUVNET/OOP2/asyncAwait/obj/Debug/net10.0/asyncAwait.AssemblyInfo.cs
+/Users/daniel/ownProjects/SUVNET/OOP2/asyncAwait/obj/Debug/net10.0/asyncAwait.csproj.CoreCompileInputs.cache
+/Users/daniel/ownProjects/SUVNET/OOP2/asyncAwait/obj/Debug/net10.0/asyncAwait.sourcelink.json
+/Users/daniel/ownProjects/SUVNET/OOP2/asyncAwait/obj/Debug/net10.0/asyncAwait.dll
+/Users/daniel/ownProjects/SUVNET/OOP2/asyncAwait/obj/Debug/net10.0/refint/asyncAwait.dll
+/Users/daniel/ownProjects/SUVNET/OOP2/asyncAwait/obj/Debug/net10.0/asyncAwait.pdb
+/Users/daniel/ownProjects/SUVNET/OOP2/asyncAwait/obj/Debug/net10.0/asyncAwait.genruntimeconfig.cache
+/Users/daniel/ownProjects/SUVNET/OOP2/asyncAwait/obj/Debug/net10.0/ref/asyncAwait.dll
