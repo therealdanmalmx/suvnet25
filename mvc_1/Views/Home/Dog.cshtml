@@ -1,0 +1,14 @@
+@model List<Dog>;
+
+@{
+    Layout = "_Layout";
+}
+
+<h1>Dogs</h1>
+<ul>
+    @foreach (var item in @Model)
+    {
+        <li style="color: red;">@item.Name | @item.Breed | @item.Age </li>
+    }
+</ul>
+<a href="/">Home</a>
